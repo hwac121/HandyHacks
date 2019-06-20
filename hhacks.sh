@@ -11,118 +11,110 @@
 # Just a handy collection of commands put together in this utility
 # script I put together.
 
-#-----------------------------------------------------------------------
-
-#=======================================================================
-#                         VARIABLES
-#=======================================================================
-
-
-
 #=======================================================================
 #                         FUNCTIONS
 #=======================================================================
 
 Splash(){
 	echo -e " "
-	echo -e "\e[30m	 ██░ ██ ▄▄▄      ███▄    █▓█████▓██   ██▓    ██░ ██ ▄▄▄      ▄████▄  ██ ▄█▀ ██████ \e[0m";
+	echo -e "\e[31m	 ██░ ██ ▄▄▄      ███▄    █▓█████▓██   ██▓    ██░ ██ ▄▄▄      ▄████▄  ██ ▄█▀ ██████ \e[0m";
 	sleep 0.08
-	echo -e "\e[30m	▓██░ ██▒████▄    ██ ▀█   █▒██▀ ██▒██  ██▒   ▓██░ ██▒████▄   ▒██▀ ▀█  ██▄█▒▒██    ▒ \e[0m";
+	echo -e "\e[31m	▓██░ ██▒████▄    ██ ▀█   █▒██▀ ██▒██  ██▒   ▓██░ ██▒████▄   ▒██▀ ▀█  ██▄█▒▒██    ▒ \e[0m";
 	sleep 0.08
-	echo -e "\e[30m	▒██▀▀██▒██  ▀█▄ ▓██  ▀█ ██░██   █▌▒██ ██░   ▒██▀▀██▒██  ▀█▄ ▒▓█    ▄▓███▄░░ ▓██▄   \e[0m";
+	echo -e "\e[31m	▒██▀▀██▒██  ▀█▄ ▓██  ▀█ ██░██   █▌▒██ ██░   ▒██▀▀██▒██  ▀█▄ ▒▓█    ▄▓███▄░░ ▓██▄   \e[0m";
 	sleep 0.08
-	echo -e "\e[30m	░▓█ ░██░██▄▄▄▄██▓██▒  ▐▌██░▓█▄   ▌░ ▐██▓░   ░▓█ ░██░██▄▄▄▄██▒▓▓▄ ▄██▓██ █▄  ▒   ██▒\e[0m";
+	echo -e "\e[31m	░▓█ ░██░██▄▄▄▄██▓██▒  ▐▌██░▓█▄   ▌░ ▐██▓░   ░▓█ ░██░██▄▄▄▄██▒▓▓▄ ▄██▓██ █▄  ▒   ██▒\e[0m";
 	sleep 0.08
-	echo -e "\e[30m	░▓█▒░██▓▓█   ▓██▒██░   ▓██░▒████▓ ░ ██▒▓░   ░▓█▒░██▓▓█   ▓██▒ ▓███▀ ▒██▒ █▒██████▒▒\e[0m";
+	echo -e "\e[31m	░▓█▒░██▓▓█   ▓██▒██░   ▓██░▒████▓ ░ ██▒▓░   ░▓█▒░██▓▓█   ▓██▒ ▓███▀ ▒██▒ █▒██████▒▒\e[0m";
 	sleep 0.08
-	echo -e "\e[30m	 ▒ ░░▒░▒▒▒   ▓▒█░ ▒░   ▒ ▒ ▒▒▓  ▒  ██▒▒▒     ▒ ░░▒░▒▒▒   ▓▒█░ ░▒ ▒  ▒ ▒▒ ▓▒ ▒▓▒ ▒ ░\e[0m";
+	echo -e "\e[31m	 ▒ ░░▒░▒▒▒   ▓▒█░ ▒░   ▒ ▒ ▒▒▓  ▒  ██▒▒▒     ▒ ░░▒░▒▒▒   ▓▒█░ ░▒ ▒  ▒ ▒▒ ▓▒ ▒▓▒ ▒ ░\e[0m";
 	sleep 0.08
-	echo -e "\e[30m	 ▒ ░▒░ ░ ▒   ▒▒ ░ ░░   ░ ▒░░ ▒  ▒▓██ ░▒░     ▒ ░▒░ ░ ▒   ▒▒ ░ ░  ▒  ░ ░▒ ▒░ ░▒  ░ ░\e[0m";
+	echo -e "\e[31m	 ▒ ░▒░ ░ ▒   ▒▒ ░ ░░   ░ ▒░░ ▒  ▒▓██ ░▒░     ▒ ░▒░ ░ ▒   ▒▒ ░ ░  ▒  ░ ░▒ ▒░ ░▒  ░ ░\e[0m";
 	sleep 0.08
-	echo -e "\e[30m	 ░  ░░ ░ ░   ▒     ░   ░ ░ ░ ░  ░▒ ▒ ░░      ░  ░░ ░ ░   ▒  ░       ░ ░░ ░░  ░  ░  \e[0m";
+	echo -e "\e[31m	 ░  ░░ ░ ░   ▒     ░   ░ ░ ░ ░  ░▒ ▒ ░░      ░  ░░ ░ ░   ▒  ░       ░ ░░ ░░  ░  ░  \e[0m";
 	sleep 0.08
-	echo -e "\e[30m	 ░  ░  ░     ░  ░        ░   ░   ░ ░         ░  ░  ░     ░  ░ ░     ░  ░        ░  \e[0m";
+	echo -e "\e[31m	 ░  ░  ░     ░  ░        ░   ░   ░ ░         ░  ░  ░     ░  ░ ░     ░  ░        ░  \e[0m";
 	sleep 0.08
-	echo -e "\e[30m	                           ░     ░ ░                        ░                      \e[0m";
+	echo -e "\e[31m	                           ░     ░ ░                        ░                      \e[0m";
 	sleep 0.08
 	echo " "
-	echo -e "    	                            ====== Version 1.0 ======"
+	echo -e "\e[35m    	                            ====== Version 1.0 ======\e[0m"
 }
 
 CreditSplash(){
-echo -e "\e[31m		                            ....+((zzz((-....\e[0m"
+echo -e "\e[33m		                            ....+((zzz((-....\e[0m"
 sleep 0.2
-echo -e "\e[31m		                      ..+6llllllllllllllllllllZz+.\e[0m"
+echo -e "\e[33m		                      ..+6llllllllllllllllllllZz+.\e[0m"
 sleep 0.2
-echo -e "\e[31m		                  .-OllllllltllllllltllllllllllllllOi.\e[0m"
+echo -e "\e[33m		                  .-OllllllltllllllltllllllllllllllOi.\e[0m"
 sleep 0.2
-echo -e "\e[31m		               .JOllllllllllllltllllltltlltlllllllllllOI.\e[0m"
+echo -e "\e[33m		               .JOllllllllllllltllllltltlltlllllllllllOI.\e[0m"
 sleep 0.2
-echo -e "\e[31m		            ..6lllllltlltlOt?=!~         !?7<OOllllllllllwi.\e[0m"
+echo -e "\e[33m		            ..6lllllltlltlOt?=!~         !?7<OOllllllllllwi.\e[0m"
 sleep 0.2
-echo -e "\e[31m		          .(OlllllllllOv7                       ?1ylltlllllO6.\e[0m"
+echo -e "\e[33m		          .(OlllllllllOv7                       ?1ylltlllllO6.\e[0m"
 sleep 0.2
-echo -e "\e[31m		         .OlllllllltO=                             ?COlllllllOn.\e[0m"
+echo -e "\e[33m		         .OlllllllltO=                             ?COlllllllOn.\e[0m"
 sleep 0.2
-echo -e "\e[31m		       .Sllllllltlln.                                 7ylllllllv+\e[0m"
+echo -e "\e[33m		       .Sllllllltlln.                                 7ylllllllv+\e[0m"
 sleep 0.2
-echo -e "\e[31m		      .Olllltlllllllvi                                  ?slltllltn\e[0m"
+echo -e "\e[33m		      .Olllltlllllllvi                                  ?slltllltn\e[0m"
 sleep 0.2
-echo -e "\e[31m		     Jllltlllltlltllllvi                                  TOllllllG.\e[0m"
+echo -e "\e[33m		     Jllltlllltlltllllvi                                  TOllllllG.\e[0m"
 sleep 0.2
-echo -e "\e[31m		    Jlllllltu= TOlllllllZ<            .                  c .sltllllw.\e[0m"
+echo -e "\e[33m		    Jlllllltu= TOlllllllZ<            .                  c .sltllllw.\e[0m"
 sleep 0.2
-echo -e "\e[31m		   .lltllltv    .4OlllllllZ<          (                  b  .kllltllG\e[0m"
+echo -e "\e[33m		   .lltllltv    .4OlllllllZ<          (                  b  .kllltllG\e[0m"
 sleep 0.2
-echo -e "\e[31m		  .OlllltOr       .1OlltllllZ........ M                  M    SllllllL\e[0m"
+echo -e "\e[33m		  .OlllltOr       .1OlltllllZ........ M                  M    SllllllL\e[0m"
 sleep 0.2
-echo -e "\e[31m		  Dllllltr          .1Olltllll1TMMMMM.Mx.      ..........M    .ylltlld.\e[0m"
+echo -e "\e[33m		  Dllllltr          .1Olltllll1TMMMMM.Mx.      ..........M    .ylltlld.\e[0m"
 sleep 0.2
-echo -e "\e[31m		 .llltllJ             .2llllllllidMMMN.YMMMMMMMMMMMMMMMM       .OlltllL\e[0m"
+echo -e "\e[33m		 .llltllJ             .2llllllllidMMMN.YMMMMMMMMMMMMMMMM       .OlltllL\e[0m"
 sleep 0.2
-echo -e "\e[31m		 Klllllu\           .JMMmvltlllllliTMMMN&x MMMMMMMMMM           Sllllld\e[0m"
+echo -e "\e[33m		 Klllllu\           .JMMmvltlllllliTMMMN&x MMMMMMMMMM           Sllllld\e[0m"
 sleep 0.2
-echo -e "\e[31m		.6ltllld           .MMMMMMmvtlltlllliTMMM] HMMMMMMMM]           .lltllt]\e[0m"
+echo -e "\e[33m		.6ltllld           .MMMMMMmvtlltlllliTMMM] HMMMMMMMM]           .lltllt]\e[0m"
 sleep 0.2
-echo -e "\e[31m		.llltll]          .MMMMMMMMMmzlllllllliTM] .MMMMMMMM            .llllll]\e[0m"
+echo -e "\e[33m		.llltll]          .MMMMMMMMMmzlllllllliTM] .MMMMMMMM            .llllll]\e[0m"
 sleep 0.2
-echo -e "\e[31m		.llllll]      x  .MMMMMMMMMMMMm1lltlllllzb  (MMMMMM]            .lltlll]\e[0m"
+echo -e "\e[33m		.llllll]      x  .MMMMMMMMMMMMm1lltlllllzb  (MMMMMM]            .lltlll]\e[0m"
 sleep 0.2
-echo -e "\e[31m		.ltlltl]      b  MMMMMMMMMMMMMMMm1llllllllI. 4MMMM#             .llltll]\e[0m"
+echo -e "\e[33m		.ltlltl]      b  MMMMMMMMMMMMMMMm1llllllllI. 4MMMM#             .llltll]\e[0m"
 sleep 0.2
-echo -e "\e[31m		.ylllllG      M .MMMMMMMMMMMMMMMMMm1lltlllll6.TMMD              .lllllt]\e[0m"
+echo -e "\e[33m		.ylllllG      M .MMMMMMMMMMMMMMMMMm1lltlllll6.TMMD              .lllllt]\e[0m"
 sleep 0.2
-echo -e "\e[31m		 Kllltld      M  MMMMMMMMMMMMMMMMMMMg1llltlllt6.                Dtlllld\e[0m"
+echo -e "\e[33m		 Kllltld      M  MMMMMMMMMMMMMMMMMMMg1llltlllt6.                Dtlllld\e[0m"
 sleep 0.2
-echo -e "\e[31m		 jllllll]     (MgMMMMMMMMMMMMMMMMMMMMMg1llllllll6.             .llltll2\e[0m"
+echo -e "\e[33m		 jllllll]     (MgMMMMMMMMMMMMMMMMMMMMMg1llllllll6.             .llltll2\e[0m"
 sleep 0.2
-echo -e "\e[31m		 .kltlltd.      .!!MMMMMMMMMMF????????TMe1lltllllt6.          .Olllltd^\e[0m"
+echo -e "\e[33m		 .kltlltd.      .!!MMMMMMMMMMF????????TMe1lltllllt6.          .Olllltd^\e[0m"
 sleep 0.2
-echo -e "\e[31m		  .lllllld.          MMMMMMMMM         MM]?ylltllllO6.       .Iltllllr\e[0m"
+echo -e "\e[33m		  .lllllld.          MMMMMMMMM         MM]?ylltllllO6.       .Iltllllr\e[0m"
 sleep 0.2
-echo -e "\e[31m		   4lltlllw.           .!""MMM         MM]  7ylltllllOn.    .OlllltlJ\e[0m"
+echo -e "\e[33m		   4lltlllw.           .!""MMM         MM]  7ylltllllOn.    .OlllltlJ\e[0m"
 sleep 0.2
-echo -e "\e[31m		    Slllllld.     .MMa.    MMM         MM]    7slllllllOn..Ollllllld!\e[0m"
+echo -e "\e[33m		    Slllllld.     .MMa.    MMM         MM]    7slllllllOn..Ollllllld!\e[0m"
 sleep 0.2
-echo -e "\e[31m		     4ltllllOn   (MMMMM    ?MM         TM]      7yltlllllllllltlltv!\e[0m"
+echo -e "\e[33m		     4ltllllOn   (MMMMM    ?MM         TM]      7yltlllllllllltlltv!\e[0m"
 sleep 0.2
-echo -e "\e[31m		      4tlltlllZ< .WMM#^      ?                    7ylllllllltllltv\e[0m"
+echo -e "\e[33m		      4tlltlllZ< .WMM#^      ?                    7ylllllllltllltv\e[0m"
 sleep 0.2
-echo -e "\e[31m		       ?slllllllZ<.                                 4lllltlllllu=\e[0m"
+echo -e "\e[33m		       ?slllllllZ<.                                 4lllltlllllu=\e[0m"
 sleep 0.2
-echo -e "\e[31m		         TOlltllllOI.                             .vlltlllltlOv!\e[0m"
+echo -e "\e[33m		         TOlltllllOI.                             .vlltlllltlOv!\e[0m"
 sleep 0.2
-echo -e "\e[31m		          .1OllllllllOI..                      .JOllllltllltv'\e[0m"
+echo -e "\e[33m		          .1OllllllllOI..                      .JOllllltllltv'\e[0m"
 sleep 0.2
-echo -e "\e[31m		             TylltlltllllOz<...          ...zIlllllltllllOv'\e[0m"
+echo -e "\e[33m		             TylltlltllllOz<...          ...zIlllllltllllOv'\e[0m"
 sleep 0.2
-echo -e "\e[31m		               ?1OlllllllllllllltOOOOOtlltllllllllllllty=!\e[0m"
+echo -e "\e[33m		               ?1OlllllllllllllltOOOOOtlltllllllllllllty=!\e[0m"
 sleep 0.2
-echo -e "\e[31m		                  ?1ylltlllllllllllllllllltlllltltlOv7!\e[0m"
+echo -e "\e[33m		                  ?1ylltlllllllllllllllllltlllltltlOv7!\e[0m"
 sleep 0.2
-echo -e "\e[31m		                      ?7lOlltlllllllltlllllltlOy?7!\e[0m"
+echo -e "\e[33m		                      ?7lOlltlllllllltlllllltlOy?7!\e[0m"
 sleep 0.2
-echo -e "\e[31m		                             ?7<<llllzz<+7=?~\e[0m"
+echo -e "\e[33m		                             ?7<<llllzz<+7=?~\e[0m"
 sleep 0.2
 echo -e " "
 echo -e "\e[34m               =================================================================\e[0m"
@@ -136,7 +128,7 @@ echo -e " "
 #  then 
 #	clear
 #	splash
-#	echo "\e[31mPlease run as root or sudo ./snatch or sudo snatch\e[0m"
+#	echo "\e[33mPlease run as root or sudo ./snatch or sudo snatch\e[0m"
 #	sleep 0.5
 #  exit
 #fi
@@ -167,7 +159,7 @@ while [ "$menu" != 1 ]; do
 			read lookup
 			look $lookup
 			echo " "
-			echo -e "\e[31mNOTE:\e[0m \e[7mYou will return to the main menu in 5 seconds...\e[0m"
+			echo -e "\e[36mNOTE:\e[0m \e[7mYou will return to the main menu in 5 seconds...\e[0m"
 			sleep 5
 		break
 		;;
@@ -189,7 +181,7 @@ while [ "$menu" != 1 ]; do
 			echo -e "External IP:"
 			curl ifconfig.me
 			echo " "
-			echo -e "\e[31mNOTE:\e[0m \e[7mYou will return to the main menu in 5 seconds...\e[0m"
+			echo -e "\e[36mNOTE:\e[0m \e[7mYou will return to the main menu in 5 seconds...\e[0m"
 			sleep 5
 		break
 		;;
@@ -201,7 +193,7 @@ while [ "$menu" != 1 ]; do
 			echo -e "Internal IP:"
 			ifconfig
 			echo " "
-			echo -e "\e[31mNOTE:\e[0m \e[7mYou will return to the main menu in 10 seconds...\e[0m"
+			echo -e "\e[36mNOTE:\e[0m \e[7mYou will return to the main menu in 10 seconds...\e[0m"
 			sleep 10
 		break
 		;;
@@ -213,7 +205,7 @@ while [ "$menu" != 1 ]; do
 		echo -e "Your full IP information is:"
 		curl ipinfo.io
 		echo " "
-		echo -e "\e[31mNOTE:\e[0m \e[7mYou will return to the main menu in 8 seconds...\e[0m"
+		echo -e "\e[36mNOTE:\e[0m \e[7mYou will return to the main menu in 8 seconds...\e[0m"
 		sleep 8
 		break
 		;;
@@ -226,7 +218,7 @@ while [ "$menu" != 1 ]; do
 			read SearchTarget
 			mtr $SearchTarget
 			echo " "
-			echo -e "\e[31mNOTE:\e[0m \e[7mYou will return to the main menu in 5 seconds...\e[0m"
+			echo -e "\e[36mNOTE:\e[0m \e[7mYou will return to the main menu in 5 seconds...\e[0m"
 			sleep 5
 		break
 		;;
@@ -240,7 +232,7 @@ while [ "$menu" != 1 ]; do
 			Splash
 			echo -e " "
 			echo -e "NOTE: Use Ctrl+c and close popup window to continue..."
-			echo -e "\e[31mNOTE:\e[0m \e[7mYou will return to the main menu in 4 seconds...\e[0m"
+			echo -e "\e[36mNOTE:\e[0m \e[7mYou will return to the main menu in 4 seconds...\e[0m"
 			ps
 			sleep 3
 		break
@@ -250,7 +242,7 @@ while [ "$menu" != 1 ]; do
 			clear
 			Splash
 			echo -e " "
-			echo -e "NOTE: Hit Ctrl+c and close popup to continue..."
+			echo -e "NOTE: Use Ctrl+c and close popup window to continue..."
 			xterm -hold -e dstat -cdngy
 		break
 		;;
@@ -259,7 +251,7 @@ while [ "$menu" != 1 ]; do
 			clear
 			Splash
 			echo -e " "
-			echo -e "\e[31mNOTE:\e[0m \e[7mUse F10 to close the popup and continue.\e[0m"
+			echo -e "\e[33mNOTE:\e[0m \e[7mUse F10 to close the popup and continue.\e[0m"
 			htop
 		break
 		;;
@@ -322,7 +314,7 @@ while [ "$menu" != 1 ]; do
 		echo -e "GitHub: https://www.github.com/hwac121"
 		echo " "
 		sleep 0.15
-		echo -e "\e[31mNOTE:\e[0m \e[7mYou will return to the main menu in 6 seconds...\e[0m"
+		echo -e "\e[33mNOTE:\e[0m \e[7mYou will return to the main menu in 6 seconds...\e[0m"
 		sleep 6
 		break
 		;;
