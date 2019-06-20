@@ -42,6 +42,8 @@ Splash(){
 }
 
 CreditSplash(){
+echo -e " "
+echo -e " "
 echo -e "\e[33m		                            ....+((zzz((-....\e[0m"
 sleep 0.2
 echo -e "\e[33m		                      ..+6llllllllllllllllllllZz+.\e[0m"
