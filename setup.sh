@@ -90,10 +90,12 @@ fi
 echo -e " "
 echo -e "Making Handy Hacks available globally..."
 cp hhacks.sh /bin/hhacks
+cp officetools.sh /bin/officetools
 sleep 0.15
 echo -e " "
 echo -e "Copying files to correct positions..."
 chmod +x /bin/hhacks
+chmod +x /bin/officetools
 sleep 0.15
 echo -e " "
 echo -e "Setting proper permissions..."

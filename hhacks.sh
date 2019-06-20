@@ -89,6 +89,7 @@ while [ "$menu" != 1 ]; do
 			clear
 			Splash
 			./officetools.sh
+			./officetools
 		break
 		;;
 #=======================================================================
@@ -248,7 +249,7 @@ while [ "$menu" != 1 ]; do
 			Splash
 			echo " "
 			echo -e "                                Thanks for using Handy Hacks v1.0"
-			sleep 0.5
+			sleep 1
 			menu=1
 			clear
 		break
