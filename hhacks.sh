@@ -44,79 +44,79 @@ Splash(){
 CreditSplash(){
 echo -e " "
 echo -e " "
-echo -e "\e[33m		                            ....+((zzz((-....\e[0m"
+echo -e "\e[33m   	                            ....+((zzz((-....\e[0m"
 sleep 0.2
-echo -e "\e[33m		                      ..+6llllllllllllllllllllZz+.\e[0m"
+echo -e "\e[33m   	                      ..+6llllllllllllllllllllZz+.\e[0m"
 sleep 0.2
-echo -e "\e[33m		                  .-OllllllltllllllltllllllllllllllOi.\e[0m"
+echo -e "\e[33m   	                  .-OllllllltllllllltllllllllllllllOi.\e[0m"
 sleep 0.2
-echo -e "\e[33m		               .JOllllllllllllltllllltltlltlllllllllllOI.\e[0m"
+echo -e "\e[33m   	               .JOllllllllllllltllllltltlltlllllllllllOI.\e[0m"
 sleep 0.2
-echo -e "\e[33m		            ..6lllllltlltlOt?=!~         !?7<OOllllllllllwi.\e[0m"
+echo -e "\e[33m   	            ..6lllllltlltlOt?=!~         !?7<OOllllllllllwi.\e[0m"
 sleep 0.2
-echo -e "\e[33m		          .(OlllllllllOv7                       ?1ylltlllllO6.\e[0m"
+echo -e "\e[33m   	          .(OlllllllllOv7                       ?1ylltlllllO6.\e[0m"
 sleep 0.2
-echo -e "\e[33m		         .OlllllllltO=                             ?COlllllllOn.\e[0m"
+echo -e "\e[33m   	         .OlllllllltO=                             ?COlllllllOn.\e[0m"
 sleep 0.2
-echo -e "\e[33m		       .Sllllllltlln.                                 7ylllllllv+\e[0m"
+echo -e "\e[33m   	       .Sllllllltlln.                                 7ylllllllv+\e[0m"
 sleep 0.2
-echo -e "\e[33m		      .Olllltlllllllvi                                  ?slltllltn\e[0m"
+echo -e "\e[33m   	      .Olllltlllllllvi                                  ?slltllltn\e[0m"
 sleep 0.2
-echo -e "\e[33m		     Jllltlllltlltllllvi                                  TOllllllG.\e[0m"
+echo -e "\e[33m   	     Jllltlllltlltllllvi                                  TOllllllG.\e[0m"
 sleep 0.2
-echo -e "\e[33m		    Jlllllltu= TOlllllllZ<            .                  c .sltllllw.\e[0m"
+echo -e "\e[33m   	    Jlllllltu= TOlllllllZ<            .                  c .sltllllw.\e[0m"
 sleep 0.2
-echo -e "\e[33m		   .lltllltv    .4OlllllllZ<          (                  b  .kllltllG\e[0m"
+echo -e "\e[33m   	   .lltllltv    .4OlllllllZ<          (                  b  .kllltllG\e[0m"
 sleep 0.2
-echo -e "\e[33m		  .OlllltOr       .1OlltllllZ........ M                  M    SllllllL\e[0m"
+echo -e "\e[33m   	  .OlllltOr       .1OlltllllZ........ M                  M    SllllllL\e[0m"
 sleep 0.2
-echo -e "\e[33m		  Dllllltr          .1Olltllll1TMMMMM.Mx.      ..........M    .ylltlld.\e[0m"
+echo -e "\e[33m   	  Dllllltr          .1Olltllll1TMMMMM.Mx.      ..........M    .ylltlld.\e[0m"
 sleep 0.2
-echo -e "\e[33m		 .llltllJ             .2llllllllidMMMN.YMMMMMMMMMMMMMMMM       .OlltllL\e[0m"
+echo -e "\e[33m	    .llltllJ             .2llllllllidMMMN.YMMMMMMMMMMMMMMMM       .OlltllL\e[0m"
 sleep 0.2
-echo -e "\e[33m		 Klllllu\           .JMMmvltlllllliTMMMN&x MMMMMMMMMM           Sllllld\e[0m"
+echo -e "\e[33m	    Klllllu\           .JMMmvltlllllliTMMMN&x MMMMMMMMMM           Sllllld\e[0m"
 sleep 0.2
-echo -e "\e[33m		.6ltllld           .MMMMMMmvtlltlllliTMMM] HMMMMMMMM]           .lltllt]\e[0m"
+echo -e "\e[33m	   .6ltllld           .MMMMMMmvtlltlllliTMMM] HMMMMMMMM]           .lltllt]\e[0m"
 sleep 0.2
-echo -e "\e[33m		.llltll]          .MMMMMMMMMmzlllllllliTM] .MMMMMMMM            .llllll]\e[0m"
+echo -e "\e[33m	   .llltll]          .MMMMMMMMMmzlllllllliTM] .MMMMMMMM            .llllll]\e[0m"
 sleep 0.2
-echo -e "\e[33m		.llllll]      x  .MMMMMMMMMMMMm1lltlllllzb  (MMMMMM]            .lltlll]\e[0m"
+echo -e "\e[33m	   .llllll]      x  .MMMMMMMMMMMMm1lltlllllzb  (MMMMMM]            .lltlll]\e[0m"
 sleep 0.2
-echo -e "\e[33m		.ltlltl]      b  MMMMMMMMMMMMMMMm1llllllllI. 4MMMM#             .llltll]\e[0m"
+echo -e "\e[33m	   .ltlltl]      b  MMMMMMMMMMMMMMMm1llllllllI. 4MMMM#             .llltll]\e[0m"
 sleep 0.2
-echo -e "\e[33m		.ylllllG      M .MMMMMMMMMMMMMMMMMm1lltlllll6.TMMD              .lllllt]\e[0m"
+echo -e "\e[33m	   .ylllllG      M .MMMMMMMMMMMMMMMMMm1lltlllll6.TMMD              .lllllt]\e[0m"
 sleep 0.2
-echo -e "\e[33m		 Kllltld      M  MMMMMMMMMMMMMMMMMMMg1llltlllt6.                Dtlllld\e[0m"
+echo -e "\e[33m	    Kllltld      M  MMMMMMMMMMMMMMMMMMMg1llltlllt6.                Dtlllld\e[0m"
 sleep 0.2
-echo -e "\e[33m		 jllllll]     (MgMMMMMMMMMMMMMMMMMMMMMg1llllllll6.             .llltll2\e[0m"
+echo -e "\e[33m	    jllllll]     (MgMMMMMMMMMMMMMMMMMMMMMg1llllllll6.             .llltll2\e[0m"
 sleep 0.2
-echo -e "\e[33m		 .kltlltd.      .!!MMMMMMMMMMF????????TMe1lltllllt6.          .Olllltd^\e[0m"
+echo -e "\e[33m	    .kltlltd.      .!!MMMMMMMMMMF????????TMe1lltllllt6.          .Olllltd^\e[0m"
 sleep 0.2
-echo -e "\e[33m		  .lllllld.          MMMMMMMMM         MM]?ylltllllO6.       .Iltllllr\e[0m"
+echo -e "\e[33m	     .lllllld.          MMMMMMMMM         MM]?ylltllllO6.       .Iltllllr\e[0m"
 sleep 0.2
-echo -e "\e[33m		   4lltlllw.           .!""MMM         MM]  7ylltllllOn.    .OlllltlJ\e[0m"
+echo -e "\e[33m	      4lltlllw.           .!""MMM         MM]  7ylltllllOn.    .OlllltlJ\e[0m"
 sleep 0.2
-echo -e "\e[33m		    Slllllld.     .MMa.    MMM         MM]    7slllllllOn..Ollllllld!\e[0m"
+echo -e "\e[33m	       Slllllld.     .MMa.    MMM         MM]    7slllllllOn..Ollllllld!\e[0m"
 sleep 0.2
-echo -e "\e[33m		     4ltllllOn   (MMMMM    ?MM         TM]      7yltlllllllllltlltv!\e[0m"
+echo -e "\e[33m	        4ltllllOn   (MMMMM    ?MM         TM]      7yltlllllllllltlltv!\e[0m"
 sleep 0.2
-echo -e "\e[33m		      4tlltlllZ< .WMM#^      ?                    7ylllllllltllltv\e[0m"
+echo -e "\e[33m	         4tlltlllZ< .WMM#^      ?                    7ylllllllltllltv\e[0m"
 sleep 0.2
-echo -e "\e[33m		       ?slllllllZ<.                                 4lllltlllllu=\e[0m"
+echo -e "\e[33m	          ?slllllllZ<.                                 4lllltlllllu=\e[0m"
 sleep 0.2
-echo -e "\e[33m		         TOlltllllOI.                             .vlltlllltlOv!\e[0m"
+echo -e "\e[33m	            TOlltllllOI.                             .vlltlllltlOv!\e[0m"
 sleep 0.2
-echo -e "\e[33m		          .1OllllllllOI..                      .JOllllltllltv'\e[0m"
+echo -e "\e[33m	             .1OllllllllOI..                      .JOllllltllltv'\e[0m"
 sleep 0.2
-echo -e "\e[33m		             TylltlltllllOz<...          ...zIlllllltllllOv'\e[0m"
+echo -e "\e[33m	                TylltlltllllOz<...          ...zIlllllltllllOv'\e[0m"
 sleep 0.2
-echo -e "\e[33m		               ?1OlllllllllllllltOOOOOtlltllllllllllllty=!\e[0m"
+echo -e "\e[33m	                  ?1OlllllllllllllltOOOOOtlltllllllllllllty=!\e[0m"
 sleep 0.2
-echo -e "\e[33m		                  ?1ylltlllllllllllllllllltlllltltlOv7!\e[0m"
+echo -e "\e[33m	                     ?1ylltlllllllllllllllllltlllltltlOv7!\e[0m"
 sleep 0.2
-echo -e "\e[33m		                      ?7lOlltlllllllltlllllltlOy?7!\e[0m"
+echo -e "\e[33m	                         ?7lOlltlllllllltlllllltlOy?7!\e[0m"
 sleep 0.2
-echo -e "\e[33m		                             ?7<<llllzz<+7=?~\e[0m"
+echo -e "\e[33m	                                ?7<<llllzz<+7=?~\e[0m"
 sleep 0.2
 echo -e " "
 echo -e "\e[34m               =================================================================\e[0m"
