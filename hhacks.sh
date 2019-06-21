@@ -89,7 +89,7 @@ while [ "$menu" != 1 ]; do
 			clear
 			Splash
 			./officetools.sh
-			./officetools
+			officetools
 		break
 		;;
 #=======================================================================
