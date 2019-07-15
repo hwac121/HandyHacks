@@ -49,6 +49,7 @@ Splash
 echo " "
 echo -e "HANDY HACKS v1.0 INSTALLATION..."
 echo " "
+echo -e "by Majik Cat Security"
 sleep 2
 
 PKG_OK=$(dpkg-query -W --showformat='${Status}\n' mtr | grep "install ok installed")
@@ -90,12 +91,12 @@ fi
 echo -e " "
 echo -e "Making Handy Hacks available globally..."
 cp hhacks.sh /bin/hhacks
-cp officetools.sh /bin/officetools
+cp officetools.sh /bin/officetools.sh
 sleep 0.15
 echo -e " "
 echo -e "Copying files to correct positions..."
 chmod +x /bin/hhacks
-chmod +x /bin/officetools
+chmod +x /bin/officetools.sh
 sleep 0.15
 echo -e " "
 echo -e "Setting proper permissions..."
