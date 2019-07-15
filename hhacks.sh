@@ -49,7 +49,7 @@ Splash(){
 #  then 
 #	clear
 #	splash
-#	echo "\e[33mPlease run as root or sudo ./snatch or sudo snatch\e[0m"
+#	echo "\e[33mPlease run as root\e[0m"
 #	sleep 0.5
 #  exit
 #fi
@@ -227,10 +227,11 @@ while [ "$menu" != 1 ]; do
 		sleep 0.15
 		echo -e "Version 1.0 - Written June 2019"
 		sleep 0.15
-		echo -e "Developed by hwac121"
+		echo -e "Developed by Majik Cat Security"
 		echo " "
 		sleep 0.15
 		echo -e "URL: www.majikcat.com"
+		echo -e "Email: rjl@majikcat.com"
 		sleep 0.15
 		echo -e "GitHub: https://www.github.com/hwac121"
 		echo " "
