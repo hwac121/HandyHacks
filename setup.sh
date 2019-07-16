@@ -41,9 +41,9 @@ Splash(){
 	echo -e "    	                            ====== Version 1.0 ======"
 }
 
-#===================================================================
-#			          CHECK FOR REQUIREMENTS
-#===================================================================
+#===================================================================#
+#			 CHECK FOR DEPENDENCIES                     #
+#===================================================================#
 clear
 Splash
 echo " "
@@ -84,6 +84,14 @@ if [ "" == "$PKG_OK" ]; then
   apt-get install zenmap
 fi
 
+PKG_OK=$(dpkg-query -W --showformat='${Status}\n' dialog | grep "install ok installed")
+echo Checking for dialog: $PKG_OK
+if [ "" == "$PKG_OK" ]; then
+  echo "dialog not installed. Attempting to install dialog now..."
+  sleep 0.15
+  apt-get install dialog
+fi
+
 #===================================================================
 #			             MAIN INSTALLATION
 #===================================================================
@@ -91,12 +99,12 @@ fi
 echo -e " "
 echo -e "Making Handy Hacks available globally..."
 cp hhacks.sh /bin/hhacks
-cp officetools.sh /bin/officetools.sh
+cp officetools.sh /bin/officetools
 sleep 0.15
 echo -e " "
 echo -e "Copying files to correct positions..."
 chmod +x /bin/hhacks
-chmod +x /bin/officetools.sh
+chmod +x /bin/officetools
 sleep 0.15
 echo -e " "
 echo -e "Setting proper permissions..."
