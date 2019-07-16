@@ -39,6 +39,9 @@ Splash(){
 	sleep 0.08
 	echo " "
 	echo -e "\e[35m    	                            ====== Version 1.0 ======\e[0m"
+	echo " "
+	echo -e "\e[35m                                      by Majik Cat Security\e[0m"
+	echo " "
 }
 
 #=======================================================================
@@ -90,6 +93,7 @@ while [ "$menu" != 1 ]; do
 			Splash
 			./officetools.sh
 			officetools
+			clear
 		break
 		;;
 #=======================================================================
@@ -236,8 +240,8 @@ while [ "$menu" != 1 ]; do
 		echo -e "GitHub: https://www.github.com/hwac121"
 		echo " "
 		sleep 0.15
-		echo -e "\e[33mNOTE:\e[0m \e[7mYou will return to the main menu in 6 seconds...\e[0m"
-		sleep 6
+		echo -e "\e[33mNOTE:\e[0m \e[7mYou will return to the main menu in 4 seconds...\e[0m"
+		sleep 4
 		break
 		;;
 
