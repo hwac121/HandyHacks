@@ -15,3 +15,5 @@ It is a group of handy utils and shortcuts I made into a handy
 little script because...I'm lazy like that. I get tired of
 typing the same crap over and over, so yeah. Now you too can
 enjoy being lazy! You're welcome.
+
+THIS IS ORIGINAL SOFTWARE - Feel free to modify or use this software as you wish, but please give me credit as the original author.
