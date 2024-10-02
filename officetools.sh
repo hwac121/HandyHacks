@@ -1,5 +1,16 @@
 #!/bin/bash
 
+# Title: Handy Hacks
+# Version: 1.0
+# Author: hwac121
+# eMail: hwac121@protonmail.com
+
+# URL: http://www.majikcat.com
+# GitHub: 
+# Description:
+# Just a handy collection of commands put together in this utility
+# script I put together.
+
 # utilitymenu.sh - A shell script to display menus on screen
 # Store menu options selected by the user
 # Reference: https://bash.cyberciti.biz/guide/A_menu_box
